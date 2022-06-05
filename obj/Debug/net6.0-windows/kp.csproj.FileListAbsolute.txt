@@ -1,0 +1,17 @@
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.csproj.AssemblyReference.cache
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.Form1.resources
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.csproj.GenerateResource.cache
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.AssemblyInfoInputs.cache
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.AssemblyInfo.cs
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.csproj.CoreCompileInputs.cache
+C:\Users\AnamnesiS\source\repos\kp\bin\Debug\net6.0-windows\kp.exe
+C:\Users\AnamnesiS\source\repos\kp\bin\Debug\net6.0-windows\kp.deps.json
+C:\Users\AnamnesiS\source\repos\kp\bin\Debug\net6.0-windows\kp.runtimeconfig.json
+C:\Users\AnamnesiS\source\repos\kp\bin\Debug\net6.0-windows\kp.dll
+C:\Users\AnamnesiS\source\repos\kp\bin\Debug\net6.0-windows\kp.pdb
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.dll
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\refint\kp.dll
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.pdb
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\kp.genruntimeconfig.cache
+C:\Users\AnamnesiS\source\repos\kp\obj\Debug\net6.0-windows\ref\kp.dll
